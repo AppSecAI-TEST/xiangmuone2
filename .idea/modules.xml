@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JpushApp/JpushApp.iml" filepath="$PROJECT_DIR$/JpushApp/JpushApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterknife_demo1/butterknife_demo1.iml" filepath="$PROJECT_DIR$/butterknife_demo1/butterknife_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichengshi_view/jichengshi_view.iml" filepath="$PROJECT_DIR$/jichengshi_view/jichengshi_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpush_demo/jpush_demo.iml" filepath="$PROJECT_DIR$/jpush_demo/jpush_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqshare/qqshare.iml" filepath="$PROJECT_DIR$/qqshare/qqshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqshare_demo1/qqshare_demo1.iml" filepath="$PROJECT_DIR$/qqshare_demo1/qqshare_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_demo/week1_demo.iml" filepath="$PROJECT_DIR$/week1_demo/week1_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiangmuone2.iml" filepath="$PROJECT_DIR$/xiangmuone2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils_demo1/xutils_demo1.iml" filepath="$PROJECT_DIR$/xutils_demo1/xutils_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zidingyi_view/zidingyi_view.iml" filepath="$PROJECT_DIR$/zidingyi_view/zidingyi_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuheshi_view/zuheshi_view.iml" filepath="$PROJECT_DIR$/zuheshi_view/zuheshi_view.iml" />
+    </modules>
+  </component>
+</project>

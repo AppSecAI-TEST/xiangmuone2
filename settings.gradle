@@ -1,0 +1,1 @@
+include ':app', ':xutils_demo1', ':qqshare', ':week1_demo', ':zidingyi_view', ':zuheshi_view', ':qqshare_demo1', ':jichengshi_view', ':butterknife_demo1', ':jpush_demo', ':JpushApp'
